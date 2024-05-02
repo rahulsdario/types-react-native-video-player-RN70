@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "types-react-native-video-player-RN70",
+  "version": "0.10.9999",
+  "projects": [
+    "https://github.com/cornedor/react-native-video-player.git"
+  ],
+  "owners": [
+    {
+      "name": "Junseong Park",
+      "githubUsername": "Kweiza"
+    },
+    {
+      "name": "mike castleman",
+      "githubUsername": "mlc"
+    }
+  ]
+}
