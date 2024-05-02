@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "types-react-native-video-player-RN70",
+  "name": "@types/react-native-video-player",
   "version": "0.10.9999",
   "projects": [
     "https://github.com/cornedor/react-native-video-player.git"
